@@ -17,6 +17,10 @@ c00lk1ngs video about it:
 
 
 
+c00lk1ngs discord server:
+```https://discord.gg/UhnAVv4Df2```
+
+
 
 # Raindbow Friends Chapter 2: W scriptttt
 Yes yes, I know this is a pretty dead game, but this script here is one of my best works of art.
