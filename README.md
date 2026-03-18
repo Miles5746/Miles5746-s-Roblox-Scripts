@@ -8,9 +8,11 @@ Here is a collection of scripts I made for Roblox Exploits.
 A script compitition I entered, for @c00lk1ngs discord sever. It is in a seperate repo and is server sided.
 I couldn't put it in a require() cause admins hated me but its now just a server script. also please check out some of my other scripts after this one, the ui on this is really terrible XD
 
-```https://github.com/Miles5746/Christmas-GUI```
-c00lk1ngs video about it:
 
+```https://github.com/Miles5746/Christmas-GUI```
+
+
+c00lk1ngs video about it:   
 ```https://www.youtube.com/watch?v=EtZV-XJtcys``` (Skip to 2:12 for my script)
 
 
